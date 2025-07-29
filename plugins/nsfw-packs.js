@@ -42,5 +42,6 @@ let handler = async (m, { conn, text, usedPrefix, command}) => {
 };
 
 handler.command = ['pack'];
+handler.group = true;
 
 export default handler;
