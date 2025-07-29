@@ -33,7 +33,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
     await m.react('🔍');
     conn.reply(
       m.chat,
-      `🧋 *Suki está buscando la app más kawaii para ti, ${name}...*`,
+      `🧋 *\`ʙᴜsᴄᴀɴᴅᴏ ʟᴀ ᴀᴘᴋ x ғᴀᴠᴏʀ ᴇsᴘᴇʀᴇ...\` ${name}...*`,
       m,
       { contextInfo, quoted: m}
 );
