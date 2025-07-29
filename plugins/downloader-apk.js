@@ -98,7 +98,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
     console.error('Error en Aptoide:', error);
     conn.reply(
       m.chat,
-      `❌ *Upss, Suki tuvo un problema mágico...*\nNo pudo completar la descarga.\n🩵 Detalles: ${error.message}`,
+      `❌ *Upss, Roxy tuvo un problema mágico...*\nNo pudo completar la descarga.\n🩵 Detalles: ${error.message}`,
       m,
       { contextInfo, quoted: m}
 );
