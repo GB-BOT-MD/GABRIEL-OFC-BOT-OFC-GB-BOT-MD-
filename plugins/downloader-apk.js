@@ -42,7 +42,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
     if (!results?.length) {
       return conn.reply(
         m.chat,
-        `💔 *Lo siento ${name}~* No encontré resultados para "${text}". ¿Me das otro nombre más clarito?`,
+        `\`ʟᴏ sɪᴇɴᴛᴏ ɴᴏ ᴇɴᴄᴏɴᴛʀᴇ ʀᴇsᴜʟᴛᴀᴅᴏs ᴅᴇ ʟᴀ ᴀᴘʟɪᴄᴀᴄɪᴏ́ɴ ɪɴᴛᴇɴᴛᴀ ᴅᴇ ɴᴜᴇᴠᴏ  (⸝⸝ᵕᴗᵕ⸝⸝)\``,
         m,
         { contextInfo, quoted: m}
 );
