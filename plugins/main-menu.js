@@ -108,6 +108,7 @@ ${saludo}, *${taguser}*!
 ┝⎆ [  ${usedPrefix}ᴏᴡɴᴇʀ
 ◈┄──━━┉─࿂
 ◈───≼ _*NSFW*_ ≽──⊚
+┝⎆ [  ${usedPrefix}ᴘᴀᴄᴋ
 ┝⎆ [  ${usedPrefix}ᴘᴇɴᴇᴛʀᴀʀ
 ┝⎆ [  ${usedPrefix}sᴇxᴏ
 ┝⎆ [  ${usedPrefix}ᴠɪᴏʟᴀʀ
