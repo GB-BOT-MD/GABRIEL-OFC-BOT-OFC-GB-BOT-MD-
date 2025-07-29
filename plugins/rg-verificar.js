@@ -37,7 +37,7 @@ const handler = async (m, { text, command, conn }) => {
 }
 
 handler.command = ['verificar', 'reg', 'reg1'];
-handler.help = ['verificar', 'reg']
+handler.help = ['verificar', 'reg', 'reg1']
 handler.tags = ['main']
 handler.register = false
 export default handler
