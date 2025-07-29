@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
     isForwarded: true,
     forwardingScore: 999,
     externalAdReply: {
-      title: '✨ Suki nako ga | Descarga Mágica de App',
+      title: '✨ Roxy nako ga | Descarga Mágica de App',
       body: `🌸 Descargando para: ${name}`,
       thumbnailUrl: sukiIcon,
       sourceUrl: channelRD,
