@@ -23,7 +23,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
   if (!text) {
     return conn.reply(
       m.chat,
-      `🌸 *Hola preciosura ${name}~* Necesito el nombre de la aplicación para buscarla.\n\n💖 Ejemplo: ${usedPrefix + command} whatsapp`,
+      `\`ǫᴜᴇ ᴀᴘʟɪᴄᴀᴄɪᴏ́ɴ ǫᴜɪᴇʀᴇs ʙᴜsᴄᴀʀ\n\nᴇᴊᴇᴍᴘʟᴏ #apk free fire\``,
       m,
       { contextInfo, quoted: m}
 );
