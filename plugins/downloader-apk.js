@@ -1,7 +1,7 @@
 import { search, download} from 'aptoide-scraper';
 
 const channelRD = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W';
-const roxyIcon = 'https://files.cloudkuimages.guru/images/Ykza9jht.jpg';
+const sukiIcon = 'https://files.cloudkuimages.guru/images/Ykza9jht.jpg';
 
 let handler = async (m, { conn, usedPrefix, command, text}) => {
   const name = conn.getName(m.sender);
