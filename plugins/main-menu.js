@@ -174,7 +174,6 @@ ${saludo}, *${taguser}*!
 ◈───≼ _*IA & ARTE*_ ≽──⊚
 ┝⎆ [  ${usedPrefix}ᴍᴀɢɪᴄsᴛᴜᴅɪᴏ <texto>
 ┝⎆ [  ${usedPrefix}ᴀɪ <texto>
-┝⎆ [  ${usedPrefix}ᴇᴅɪᴛꜰᴏᴛᴏ <descripción>
 ┝⎆ [  ${usedPrefix}ᴡᴘᴡ
 ┝⎆ [  ${usedPrefix}ᴘᴏʟʟɪɴᴀᴛɪᴏɴs <texto>
 ┝⎆ [  ${usedPrefix}ɢᴇᴍɪɴɪ
