@@ -2,7 +2,8 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 
 let handler = async (m, { conn, text, usedPrefix, command}) => {
-  m.react('🕑');
+  m.react('🍑');
+  m.react('🔥');
 
   let txt = 'Pack🔥🔥🔥\n> Pon De Nuevo.pack para mirar el siguiente ✨';
   let img = 'https://delirius-apiofc.vercel.app/nsfw/girls';
