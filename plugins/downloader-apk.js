@@ -69,7 +69,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
 📆 Última actualización: *${data.lastup}*
 📦 Tamaño: *${data.size}*
 
-✨ ¡Suki lo obtuvo solo para ti con cariño!`.trim();
+✨ ¡roxy lo obtuvo solo para ti con cariño!`.trim();
 
     await conn.sendFile(m.chat, data.icon, 'suki-preview.jpg', caption, m, null, { contextInfo, quoted: m});
 
