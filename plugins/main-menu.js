@@ -207,7 +207,6 @@ ${saludo}, *${taguser}*!
 
 ◈───≼ _*TOOLS*_ ≽──⊚
 ┝⎆ [  ${usedPrefix}sᴛɪᴄᴋᴇʀsᴇᴀʀᴄʜ <text>
-┝⎆ [  ${usedPrefix}ɪǫᴄ <texto>
 ┝⎆ [  ${usedPrefix}ʀᴠᴏᴄᴀʟ <audio>
 ┝⎆ [  ${usedPrefix}ᴛᴏᴜʀʟ2
 ┝⎆ [  ${usedPrefix}ʜᴅ
