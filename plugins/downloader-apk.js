@@ -23,7 +23,7 @@ let handler = async (m, { conn, usedPrefix, command, text}) => {
   if (!text) {
     return conn.reply(
       m.chat,
-      `\`ǫᴜᴇ ᴀᴘʟɪᴄᴀᴄɪᴏ́ɴ ǫᴜɪᴇʀᴇs ʙᴜsᴄᴀʀ\`\n\n\`ᴇᴊᴇᴍᴘʟᴏ #apk free fire\``,
+      `\`ǫᴜᴇ ᴀᴘʟɪᴄᴀᴄɪᴏ́ɴ ǫᴜɪᴇʀᴇs ʙᴜsᴄᴀʀ ૮₍ ˶•⤙•˶ ₎ა\`\n\n\`ᴇᴊᴇᴍᴘʟᴏ #apk free fire\``,
       m,
       { contextInfo, quoted: m}
 );
