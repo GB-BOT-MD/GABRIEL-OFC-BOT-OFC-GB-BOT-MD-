@@ -18,7 +18,7 @@ let crm4 = "IF9hdXRvcmVzcG9uZGVyLmpzIGluZm8tYm90Lmpz"
 let drm1 = ""
 let drm2 = ""
 let rtx = "𝗘𝗻𝘃𝗶𝗮𝗻𝗱𝗼 𝗲𝗹 𝗰𝗼𝗱𝗲 𝗱𝗲 𝘃𝗶𝗻𝗰𝘂𝗹𝗮𝘃𝗶𝗼𝗻\n𝗦𝗶𝗴𝘂𝗲 𝗲𝗹 𝗰𝗮𝗻𝗮𝗹 𝗽𝗮𝗿𝗮 𝘀𝗮𝗯𝗲𝗿 𝗺𝗮𝘀 𝗱𝗲 𝗯𝗼𝘁\nhttps://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W"
-let rtx2 = "𝗘𝗻𝘃𝗶𝗮𝗻𝗱𝗼 𝗲𝗹 𝗰𝗼𝗱𝗲 𝗱𝗲 𝘃𝗶𝗻𝗰𝘂𝗹𝗮𝘃𝗶𝗼𝗻\n𝗦𝗶𝗴𝘂𝗲 𝗲𝗹 𝗰𝗮𝗻𝗮𝗹 𝗽𝗮𝗿𝗮 𝘀𝗮𝗯𝗲𝗿 𝗺𝗮𝘀 𝗱𝗲 𝗯𝗼𝘁\nhttps://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W"
+let rtx2 = "\`sᴇ ᴇsᴛᴀ ᴇɴᴠɪᴀᴅᴏ ᴇʟ ᴄᴏᴅᴇ ᴅᴇ ᴠɪɴᴄᴜʟᴀᴄɪᴏ́ɴ sɪɢᴜᴇ ᴇʟ ᴄᴀɴᴀʟ ᴘᴏʀǫᴜᴇ ᴀᴠᴇᴄᴇs ᴇʟ ʙᴏᴛ ᴄᴀᴍʙɪᴀ ᴅᴇ ɴᴜ́ᴍᴇʀᴏ ʏ ᴛᴇ ᴇsᴛᴀʀᴇᴍᴏs ᴀᴠɪsᴀɴᴅᴏ ᴇɴ ᴇʟ ᴇᴄᴀɴᴀʟ\`"
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
