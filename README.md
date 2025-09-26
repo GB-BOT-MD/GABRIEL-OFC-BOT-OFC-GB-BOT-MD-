@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Roxy MD - WhatsApp Bot 🌸</h1>
+<h1 align="center">🚀 GB-BOT-MD ☄️ MD - WhatsApp Bot </h1>
 
 <p align="center">
   <img src="https://d.uguu.se/aupfxFqX.gif" width="220" alt="RoxyBot" />
